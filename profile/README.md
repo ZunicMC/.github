@@ -6,7 +6,7 @@ You can play with your friend at this server. <br/>
 We have many FFA gamemodes and you can customize your gameplay easily in our server.
 
 ## Gamemodes
-- Nodebuff
+- Nodebuff (Unranked added)
 - Sumo
 - Gapple
 - Combo
