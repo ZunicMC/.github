@@ -14,5 +14,4 @@ We have many FFA gamemodes and you can customize your gameplay easily in our ser
 
 ## Join Now
 IP: zunicmc.minecraft.pe  
-Port: 19140  
-OR [Click me to join ZunicMC](minecraft://?addExternalServer=ZunicMC|zunicmc.minecraft.pe:19140)
+Port: 19140
