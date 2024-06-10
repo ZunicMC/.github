@@ -1,4 +1,4 @@
-![ZunicMC](https://cdn.discordapp.com/attachments/995241248468238429/1058748375366910022/zunicMc__1_-removebg-preview.png)
+![ZunicMC](./logo_text.png)
 
 ## About
 ZunicMC is a PVP server for Minecraft Bedrock Edition.  
@@ -13,5 +13,5 @@ We have many FFA gamemodes and you can customize your gameplay easily in our ser
 - and much more
 
 ## Join Now
-IP: zunicmc.minecraft.pe  
+IP: play.zunicmc.net  
 Port: 19140
