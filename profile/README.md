@@ -1,4 +1,4 @@
-![ZunicMC](/profile/logo_text.png)
+![ZunicMC](/profile/logo_text_v2.1.png)
 
 ## About
 ZunicMC is a PVP server for Minecraft Bedrock Edition.  
